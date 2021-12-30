@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 22 Dec 2021 11:21:51 at https://capture-html.webflow.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://capture-html.webflow.io/ -O1 "C:\My Web Sites\web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:21:53	Error: 	"Bad Gateway" (502) after 2 retries at link https://capture-html.webflow.io/robots.txt (from primary/primary)
+11:22:23	Error: 	"Bad Gateway" (502) after 2 retries at link capture-html.webflow.io/robots.txt (from https://capture-html.webflow.io/)
+11:22:23	Warning: 	Retry after error 502 (Bad Gateway) at link capture-html.webflow.io/404 (from https://capture-html.webflow.io/)
+11:22:23	Warning: 	Retry after error 502 (Bad Gateway) at link capture-html.webflow.io/401 (from https://capture-html.webflow.io/)
+11:22:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://capture-html.webflow.io/utility-pages/instructions (from https://capture-html.webflow.io/)
+11:22:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://capture-html.webflow.io/utility-pages/licensing (from https://capture-html.webflow.io/)
+11:22:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://capture-html.webflow.io/utility-pages/style-page (from https://capture-html.webflow.io/)
+11:22:25	Warning: 	Retry after error 502 (Bad Gateway) at link https://capture-html.webflow.io/utility-pages/changelog (from https://capture-html.webflow.io/)
+11:22:25	Warning: 	Retry after error 502 () at link capture-html.webflow.io/404 (from https://capture-html.webflow.io/)
+11:22:25	Warning: 	Retry after error 502 (Bad Gateway) at link capture-html.webflow.io/401 (from https://capture-html.webflow.io/)
+11:22:25	Warning: 	Retry after error 502 (Bad Gateway) at link https://capture-html.webflow.io/utility-pages/instructions (from https://capture-html.webflow.io/)
+11:22:27	Warning: 	Retry after error 502 (Bad Gateway) at link https://capture-html.webflow.io/utility-pages/licensing (from https://capture-html.webflow.io/)
+11:22:27	Warning: 	Retry after error 502 (Bad Gateway) at link https://capture-html.webflow.io/utility-pages/style-page (from https://capture-html.webflow.io/)
+11:22:27	Warning: 	Retry after error 502 (Bad Gateway) at link https://capture-html.webflow.io/utility-pages/changelog (from https://capture-html.webflow.io/)
+11:22:28	Error: 	"" (502) after 2 retries at link capture-html.webflow.io/404 (from https://capture-html.webflow.io/)
+11:22:28	Error: 	"Bad Gateway" (502) after 2 retries at link capture-html.webflow.io/401 (from https://capture-html.webflow.io/)
+11:22:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://capture-html.webflow.io/utility-pages/instructions (from https://capture-html.webflow.io/)
+11:22:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://capture-html.webflow.io/utility-pages/licensing (from https://capture-html.webflow.io/)
+11:22:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://capture-html.webflow.io/utility-pages/style-page (from https://capture-html.webflow.io/)
+11:22:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://capture-html.webflow.io/utility-pages/changelog (from https://capture-html.webflow.io/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 seconds : 65 links scanned, 45 files written (7352778 bytes overall) [6890848 bytes received at 186239 bytes/sec], 624824 bytes transferred using HTTP compression in 4 files, ratio 20%, 4.5 requests per connection
+(8 errors, 12 warnings, 0 messages)
